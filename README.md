@@ -10,3 +10,5 @@ The third column contains the last updated date.
 
 Format:
 domain_or_ip|attribute_id|last_updated
+
+Attribute identifiers are mapped to human-readable descriptions in a separate JSON file.
